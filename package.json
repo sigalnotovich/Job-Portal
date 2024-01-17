@@ -38,6 +38,8 @@
     "swr": "^2.1.2"
   },
   "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "@types/node": "^20.11.5",
     "autoprefixer": "^10.4.13",
     "copy-webpack-plugin": "^11.0.0",
     "file-loader": "^6.2.0",

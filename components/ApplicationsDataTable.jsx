@@ -8,7 +8,6 @@ export default function ApplicationsDataTable({ application }) {
 
     const router = useRouter();
 
-
     const [Data, setData] = useState([]);
 
 
